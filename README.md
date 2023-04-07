@@ -5,5 +5,8 @@ I'm a software engineer from North Carolina.
 [![My Skills](https://skills.thijs.gg/icons?i=py,js,ts,html,css,angular,java,r,nodejs,mongodb,git)](https://skills.thijs.gg)
 
 ### Education and Certifications
-<img src="https://user-images.githubusercontent.com/115199074/230659259-2ad9a63c-0baf-47cf-814d-dbbde4cc9a23.png" width=30px>
-University of North Carolina at Chapel Hill Bachelors of Science
+<img align="left" src="https://user-images.githubusercontent.com/115199074/230659259-2ad9a63c-0baf-47cf-814d-dbbde4cc9a23.png" width=30px>
+University of North Carolina at Chapel Hill Bachelors of Science 
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/115199074/230660112-8259f3f3-06ce-46f3-ba87-4fa449c35728.png" width=30px>
