@@ -1,5 +1,9 @@
 ## Hey, I'm John 👋
-I'm a software engineer from North Carolina. 
+[![Linkedin Badge](https://img.shields.io/badge/-johnshizhu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnshizhu/)](https://www.linkedin.com/in/johnshizhu/)
+[![Gmail Badge](https://img.shields.io/badge/-johnshizhu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:johnshizhu@gmail.com)](mailto:johnshizhu@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@johnszhu2-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/johnzhu2/)](https://instagram.com/johnzhu2)
+<br><br>
+Welcome to my Profile! I'm a software engineering, student, reader and rock climber. I will be going into a Master of Science in Computer Science in the Fall. Thank you for checking out my Github and I would love to connect!
 
 ### Languages and Tools
 [![My Skills](https://skills.thijs.gg/icons?i=py,js,ts,html,css,angular,java,r,nodejs,mongodb,git)](https://skills.thijs.gg)
