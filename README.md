@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hey, I'm John 👋
+I'm a software engineer passionate about building state-of-the-art software products that are also user-accessible. To give a bit of background on myself, I completed my Bachelors of Science at the University of North Carolina at Chapel Hill where I majored in biology and minored in computer science and chemistry. I will be starting a Masters of Science in Computer Science starting Fall of 2023! 
+<br>
+I am especially excited about web development and machine learning!
+<br>
+Want to get in contact?
+
+
+### Languages and Tools
+[![My Skills](https://skills.thijs.gg/icons?i=py,js,ts,html,css,angular,java,r,nodejs,mongodb,git)](https://skills.thijs.gg)
 
 <!--
 **johnshizhu/johnshizhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
