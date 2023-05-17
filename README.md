@@ -9,12 +9,10 @@ Welcome to my Profile! I'm a graduate student at NC State University. Thank you 
 [![My Skills](https://skills.thijs.gg/icons?i=py,js,ts,html,css,react,angular,java,r,nodejs,mongodb,git)](https://skills.thijs.gg)
 
 ### Education and Certifications
-Masters in Computer Science NC State University
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/North_Carolina_State_University_Athletic_logo.svg" width=30px>Masters of Science in Computer Science NC State University
 <br>
 <br>
-<img align="left" src="https://user-images.githubusercontent.com/115199074/230659259-2ad9a63c-0baf-47cf-814d-dbbde4cc9a23.png" width=30px>
-University of North Carolina at Chapel Hill Bachelors of Science 
+<img align="left" src="https://user-images.githubusercontent.com/115199074/230659259-2ad9a63c-0baf-47cf-814d-dbbde4cc9a23.png" width=30px>University of North Carolina at Chapel Hill Bachelors of Science 
 <br>
 <br>
-<img align="left" src="https://user-images.githubusercontent.com/115199074/230660112-8259f3f3-06ce-46f3-ba87-4fa449c35728.png" width=30px>
-Amazon Web Services Developer Associate
+<img align="left" src="https://user-images.githubusercontent.com/115199074/230660112-8259f3f3-06ce-46f3-ba87-4fa449c35728.png" width=30px>Amazon Web Services Developer Associate
