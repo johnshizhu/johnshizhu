@@ -9,7 +9,7 @@ Welcome to my Profile! I'm a graduate student at NC State University. Thank you 
 [![My Skills](https://skills.thijs.gg/icons?i=py,js,ts,html,css,react,angular,java,r,nodejs,mongodb,git)](https://skills.thijs.gg)
 
 ### Education and Certifications
-Masters in Computer Science (in progress, deciding on school for Fall 2023)
+Masters in Computer Science NC State University
 <br>
 <br>
 <img align="left" src="https://user-images.githubusercontent.com/115199074/230659259-2ad9a63c-0baf-47cf-814d-dbbde4cc9a23.png" width=30px>
