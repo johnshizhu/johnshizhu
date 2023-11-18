@@ -6,7 +6,7 @@
 Welcome to my Profile! I'm a graduate student at NC State University. Thank you for checking out my github and I would love to connect!
 
 ### Languages and Tools
-[![My Skills](https://skills.thijs.gg/icons?i=py,tensorflow,js,ts,html,css,react,angular,java,r,nodejs,mongodb,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,pytorch,tensorflow,react,angular,js,nodejs,java,mongodb,git)](https://skills.thijs.gg)
 
 ### Education and Certifications
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/North_Carolina_State_University_Athletic_logo.svg" width=30px>Masters of Science in Computer Science NC State University (current)
