@@ -3,10 +3,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-johnshizhu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:johnshizhu@gmail.com)](mailto:johnshizhu@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@johnszhu2-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/johnzhu2/)](https://instagram.com/johnzhu2)
 <br><br>
-Welcome to my Profile! I'm a graduate student at NC State University. Thank you for checking out my github and I would love to connect!
+Welcome to my Profile! I mostly work on machine learning, in particular computer vision and robotics. I'm currently a junior MLE at [Surgical Data Science Collective](https://www.surgicalvideo.io/).
+
+Thank you for checking out my github and I would love to connect!
+
+
 
 ### Education and Certifications
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/North_Carolina_State_University_Athletic_logo.svg" width=30px>Masters of Science in Computer Science NC State University (current)
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/North_Carolina_State_University_Athletic_logo.svg" width=30px>Masters of Science in Computer Science NC State University
 <br>
 <br>
 <img align="left" src="https://user-images.githubusercontent.com/115199074/230659259-2ad9a63c-0baf-47cf-814d-dbbde4cc9a23.png" width=30px>University of North Carolina at Chapel Hill Bachelors of Science 
